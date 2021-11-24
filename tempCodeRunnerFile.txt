@@ -1,0 +1,5 @@
+print("pizza")
+print ("eat")
+print("awesome-string@example.com")
+print("you complete me "+""+"(i am a string)")
+print("swift said, \"you can escape this,don't worry!/")
