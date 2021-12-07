@@ -1,5 +1,3 @@
-
-
 terms=int(input("Enter the number of terms you want in Fibonacci series :"))
 n1,n2=0,1
 count=0
